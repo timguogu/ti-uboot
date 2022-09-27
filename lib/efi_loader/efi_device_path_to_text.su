@@ -1,0 +1,6 @@
+efi_device_path_to_text.c:45:14:dp_unknown	8	static
+efi_device_path_to_text.c:270:14:efi_convert_single_device_node_to_text	72	static
+efi_device_path_to_text.c:30:13:efi_str_to_u16	16	static
+efi_device_path_to_text.c:344:25:efi_convert_device_path_to_text	1048	static
+efi_device_path_to_text.c:311:25:efi_convert_device_node_to_text	520	static
+efi_device_path_to_text.c:372:11:efi_dp_str	8	static

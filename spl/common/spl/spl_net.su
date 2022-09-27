@@ -1,0 +1,4 @@
+spl_net.c:19:14:spl_net_load_read	8	static
+spl_net.c:28:12:spl_net_load_image.isra.0	40	static
+spl_net.c:73:5:spl_net_load_image_cpgmac	0	static
+spl_net.c:87:5:spl_net_load_image_usb	16	static

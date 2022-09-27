@@ -1,0 +1,4 @@
+omap_wdt.c:150:12:omap3_wdt_reset	8	static
+omap_wdt.c:175:12:omap3_wdt_stop	8	static
+omap_wdt.c:189:12:omap3_wdt_start	24	static
+omap_wdt.c:236:12:omap3_wdt_probe	16	static

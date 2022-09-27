@@ -1,0 +1,13 @@
+fb_command.c:361:13:oem_format	40	static
+fb_command.c:147:13:okay	0	static
+fb_command.c:346:13:reboot_recovery	8	static
+fb_command.c:332:13:reboot_fastbootd	8	static
+fb_command.c:318:13:reboot_bootloader	8	static
+fb_command.c:301:13:erase	0	static
+fb_command.c:280:13:flash	0	static
+fb_command.c:169:13:download	24	static
+fb_command.c:158:13:getvar	0	static
+fb_command.c:112:5:fastboot_handle_command	32	static
+fb_command.c:203:5:fastboot_data_remaining	0	static
+fb_command.c:222:6:fastboot_data_download	24	static
+fb_command.c:259:6:fastboot_data_complete	8	static

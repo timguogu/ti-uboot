@@ -1,0 +1,8 @@
+efi_variable.c:457:35:efi_query_variable_info_runtime	0	static
+efi_variable.c:477:1:efi_set_variable_runtime	0	static
+efi_variable.c:293:1:efi_get_variable_int	0	static
+efi_variable.c:301:1:efi_get_next_variable_name_int	0	static
+efi_variable.c:307:14:efi_set_variable_int	72	static
+efi_variable.c:429:14:efi_query_variable_info_int	16	static
+efi_variable.c:487:6:efi_variables_boot_exit_notify	0	static
+efi_variable.c:504:14:efi_init_variables	8	static

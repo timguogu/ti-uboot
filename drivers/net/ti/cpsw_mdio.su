@@ -1,0 +1,6 @@
+cpsw_mdio.c:68:12:cpsw_mdio_wait_for_user_access.isra.0	16	static
+cpsw_mdio.c:75:12:cpsw_mdio_read	16	static
+cpsw_mdio.c:101:12:cpsw_mdio_write	24	static
+cpsw_mdio.c:123:5:cpsw_mdio_get_alive	0	static
+cpsw_mdio.c:132:17:cpsw_mdio_init	32	static
+cpsw_mdio.c:194:6:cpsw_mdio_free	16	static

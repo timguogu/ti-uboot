@@ -1,0 +1,2 @@
+boot-common.c:31:12:omap_sys_boot_device	0	static
+boot-common.c:36:6:save_omap_boot_params	8	static

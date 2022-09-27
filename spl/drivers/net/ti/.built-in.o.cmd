@@ -1,0 +1,1 @@
+cmd_spl/drivers/net/ti/built-in.o :=  arm-none-linux-gnueabihf-ld.bfd     -r -o spl/drivers/net/ti/built-in.o spl/drivers/net/ti/cpsw.o spl/drivers/net/ti/cpsw-common.o spl/drivers/net/ti/cpsw_mdio.o 

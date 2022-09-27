@@ -1,0 +1,1 @@
+cmd_spl/net/built-in.o :=  arm-none-linux-gnueabihf-ld.bfd     -r -o spl/net/built-in.o spl/net/arp.o spl/net/bootp.o spl/net/eth-uclass.o spl/net/eth_common.o spl/net/net.o spl/net/nfs.o spl/net/ping.o spl/net/tftp.o 

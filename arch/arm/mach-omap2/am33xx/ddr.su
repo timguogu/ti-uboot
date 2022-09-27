@@ -1,0 +1,8 @@
+ddr.c:65:13:configure_mr	16	static
+ddr.c:84:6:config_sdram_emif4d5	16	static
+ddr.c:183:6:config_sdram	24	static
+ddr.c:220:6:set_sdram_timings	0	static
+ddr.c:332:6:config_ddr_phy	8	static
+ddr.c:360:6:config_cmd_ctrl	0	static
+ddr.c:378:6:config_ddr_data	8	static
+ddr.c:401:6:config_io_ctrl	0	static

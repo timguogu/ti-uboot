@@ -1,0 +1,1 @@
+cmd_spl/drivers/net/built-in.o :=  arm-none-linux-gnueabihf-ld.bfd     -r -o spl/drivers/net/built-in.o spl/drivers/net/qe/built-in.o spl/drivers/net/ti/built-in.o spl/drivers/net/mscc_eswitch/built-in.o 

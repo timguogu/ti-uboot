@@ -1,0 +1,15 @@
+omap_gpmc.c:63:13:omap_nand_hwcontrol	8	static
+omap_gpmc.c:91:12:omap_dev_ready	0	static
+omap_gpmc.c:230:12:omap_calculate_ecc	0	static
+omap_gpmc.c:266:28:omap_enable_hwecc_bch	20	static
+omap_gpmc.c:627:13:omap_reverse_list	8	static
+omap_gpmc.c:183:13:omap_enable_hwecc	16	static
+omap_gpmc.c:650:12:omap_correct_data_bch	104	static
+omap_gpmc.c:349:12:_omap_calculate_ecc_bch.isra.0	20	static
+omap_gpmc.c:436:12:omap_calculate_ecc_bch	0	static
+omap_gpmc.c:742:12:omap_read_page_bch	56	static
+omap_gpmc.c:552:13:omap_nand_read_prefetch	40	static
+omap_gpmc.c:126:27:omap_correct_data	16	static
+omap_gpmc.c:1049:20:omap_nand_switch_ecc	32	static
+omap_gpmc.c:1123:5:gpmc_nand_init	32	static
+omap_gpmc.c:1277:5:board_nand_init	8	static

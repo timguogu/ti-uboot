@@ -1,0 +1,6 @@
+net.c:193:12:netboot_common	64	static
+net.c:22:12:do_bootp	0	static
+net.c:99:12:do_dhcp	0	static
+net.c:113:12:do_nfs	0	static
+net.c:36:5:do_tftpb	16	static
+net.c:289:12:do_ping	8	static

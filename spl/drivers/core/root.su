@@ -1,0 +1,10 @@
+root.c:34:17:dm_root	0	static
+root.c:44:6:dm_fixup_for_gd_move	0	static
+root.c:53:6:fix_drivers	8	static
+root.c:86:6:fix_uclass	8	static
+root.c:118:6:fix_devices	8	static
+root.c:131:5:dm_init	8	static
+root.c:163:5:dm_uninit	8	static
+root.c:181:5:dm_scan_platdata	8	static
+root.c:341:12:dm_scan_other	0	static
+root.c:346:5:dm_init_and_scan	8	static

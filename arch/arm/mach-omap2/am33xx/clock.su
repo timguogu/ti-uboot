@@ -1,0 +1,7 @@
+clock.c:75:6:do_setup_dpll	16	static
+clock.c:191:6:do_enable_clocks	24	static
+clock.c:210:6:do_disable_clocks	24	static
+clock.c:233:13:scale_vcores	0	static
+clock.c:237:6:setup_early_clocks	8	static
+clock.c:244:6:prcm_init	8	static
+clock.c:250:6:rtc_only_prcm_init	8	static

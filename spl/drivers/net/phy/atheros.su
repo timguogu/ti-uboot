@@ -1,0 +1,4 @@
+atheros.c:73:12:ar803x_debug_reg_mask	32	static
+atheros.c:114:12:ar8021_config	24	static
+atheros.c:314:12:ar803x_config	40	static
+atheros.c:368:5:phy_atheros_init	8	static

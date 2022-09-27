@@ -1,0 +1,17 @@
+cpsw.c:286:12:cpsw_ale_read.isra.0	0	static
+cpsw.c:329:12:cpsw_ale_match_free	32	static
+cpsw.c:343:12:cpsw_ale_find_ageable	32	static
+cpsw.c:310:12:cpsw_ale_match_addr	48	static
+cpsw.c:578:12:cpdma_submit	12	static
+cpsw.c:1037:12:cpsw_eth_free_pkt	8	static
+cpsw.c:1030:12:cpsw_eth_recv	16	static
+cpsw.c:1060:13:cpsw_gmii_sel_am3352.isra.0	20	static
+cpsw.c:1226:12:cpsw_eth_ofdata_to_platdata	128	static
+cpsw.c:388:12:cpsw_ale_add_mcast.constprop	48	static
+cpsw.c:769:12:cpsw_reap_completed_packets	0	static
+cpsw.c:1045:13:cpsw_eth_stop	8	static
+cpsw.c:1023:12:cpsw_eth_send	16	static
+cpsw.c:1015:12:cpsw_eth_start	48	static
+cpsw.c:900:5:_cpsw_register	24	static
+cpsw.c:1176:12:cpsw_eth_probe	16	static
+cpsw.c:1367:5:cpsw_get_slave_phy_addr	8	static

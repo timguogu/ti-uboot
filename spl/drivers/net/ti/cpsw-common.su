@@ -1,0 +1,2 @@
+cpsw-common.c:47:6:ti_cm_get_macid	16	static
+cpsw-common.c:56:5:ti_cm_get_macid_addr	40	static

@@ -1,0 +1,5 @@
+blkcache.c:70:5:blkcache_read	32	static
+blkcache.c:91:6:blkcache_fill	40	static
+blkcache.c:145:6:blkcache_invalidate	32	static
+blkcache.c:162:6:blkcache_configure	32	static
+blkcache.c:184:6:blkcache_stats	8	static

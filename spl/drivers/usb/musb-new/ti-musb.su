@@ -1,0 +1,6 @@
+ti-musb.c:34:13:ti_musb_set_phy_power	8	static
+ti-musb.c:168:12:ti_musb_host_remove	8	static
+ti-musb.c:147:12:ti_musb_host_probe	24	static
+ti-musb.c:261:12:ti_musb_peripheral_remove	8	static
+ti-musb.c:244:12:ti_musb_peripheral_probe	16	static
+ti-musb.c:235:5:dm_usb_gadget_handle_interrupts	8	static

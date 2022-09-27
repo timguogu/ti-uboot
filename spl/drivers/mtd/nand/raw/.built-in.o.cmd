@@ -1,0 +1,1 @@
+cmd_spl/drivers/mtd/nand/raw/built-in.o :=  arm-none-linux-gnueabihf-ld.bfd     -r -o spl/drivers/mtd/nand/raw/built-in.o spl/drivers/mtd/nand/raw/am335x_spl_bch.o spl/drivers/mtd/nand/raw/nand_ecc.o spl/drivers/mtd/nand/raw/nand_base.o spl/drivers/mtd/nand/raw/omap_gpmc.o spl/drivers/mtd/nand/raw/omap_elm.o 
